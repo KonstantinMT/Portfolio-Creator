@@ -141,11 +141,11 @@ header{
     height: 58px;
     background-color: #000000;
     border: none;
-    transition: background-color 0.8s ease;
+    transition: background-color 0.5s ease;
 }
 
 .section-2-1 button:hover{
-    box-shadow:inset 0 5px 10px rgb(163, 160, 160)
+    box-shadow:inset 0 5px 10px rgb(196, 195, 195)
 }
 
 .section-2-1 button a{
@@ -168,7 +168,7 @@ header{
 }
 
 .section-2-11-a:hover{
-    color: rgb(5, 204, 28);
+    color: rgb(5, 143, 21);
 }
 
 .section-2-2{
@@ -283,7 +283,7 @@ header{
 
 .section-22-1 h4{
     font-size: 22px;
-    color: #FF5E69;
+    color: #df3f49;
     margin-bottom: 15px;
 }
 
@@ -421,7 +421,7 @@ header{
 
 .section-3-11 span{
     font-size: 22px;
-    color: #B16CEA;
+    color: #854cb4;
     margin-bottom: 15px;
 }
 
@@ -505,7 +505,7 @@ header{
     font-size: 14px;
     font-weight: 800;
     letter-spacing: 3px;
-    color: #3C46FF;
+    color: #2f38d6;
     margin-left: 20px;
 }
 .section-3-22 h4{
@@ -665,7 +665,7 @@ header{
     text-decoration: none;
     margin-top: 20px;
     margin-bottom: 30px;
-    transition: color 0.8s ease;
+    transition: color 0.5s ease;
 }
 .section-4-22 a:hover{
     color: #9d9c9c;
