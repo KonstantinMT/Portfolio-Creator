@@ -54,10 +54,10 @@ header{
 
 .nav a{
     text-decoration: none;
-    color: #04c010;
+    color: #a802a2;
     font-size: 16px;
     mix-blend-mode: difference;
-    transition: color 0.8s ease;
+    transition: color 0.5s ease;
 }
 
 .nav a:hover{
@@ -71,7 +71,7 @@ header{
     display: none;
 }
 
-@media(max-width: 992px){
+@media(max-width: 995px){
     .nav{
         display: none;
         position: absolute;
